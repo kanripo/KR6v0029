@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:13.719305
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:07
 #+TITLE: 《瑜伽師地論》披尋記敘
 #+PROPERTY: CBETA_ID W02n0022
 #+PROPERTY: ID KR6v0029
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 02, No. 022
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0029_W_001-0460a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 《瑜伽師地論》披尋記敘¶
 韓清淨　著整理者　程恭讓¶
 ¶
 
@@ -55,10 +55,9 @@
 外，凡《敘》中引用的《瑜伽師地論》文字，均一一核實，並註明出處。¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 《瑜伽師地論》披尋記敘¶
+《瑜伽師地論》披尋記敘¶
 ¶
 
 淨自聞法以還，初讀《俱舍》，繼研《唯識》。《俱舍》以《光¶
@@ -118,9 +117,9 @@
 「　「初持次相分，
 　增上意樂住，¶
 　生攝受地行，
-　建立最為後。」
+　建立最為後。」」
 #+END_VERSE
-」¶
+¶
 
 長行釋云：「持有三種：一為堪任性持，次為行加行持，後為圓¶
 滿大菩提持。」皆為初持所攝，次後皆不名「持」，何可分為第二、¶
